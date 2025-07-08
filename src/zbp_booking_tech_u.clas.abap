@@ -1,0 +1,5 @@
+CLASS zbp_booking_tech_u DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zhru_i_travel.
+ENDCLASS.
+
+CLASS zbp_booking_tech_u IMPLEMENTATION.
+ENDCLASS.

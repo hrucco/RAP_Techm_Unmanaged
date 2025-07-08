@@ -1,0 +1,4 @@
+@EndUserText.label: 'travel service def'
+define service ZHRU_SD_TRAVEL {
+  expose ZHRU_C_Travel;
+}
